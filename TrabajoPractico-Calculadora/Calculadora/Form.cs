@@ -83,6 +83,7 @@ namespace Calculadora
                 lblResp.Text = "Respuesta:";
                 lblResultado.Text = aux;
                 this.banderaBin = 1;
+                this.banderaDec = 0;
             }
         }
 
@@ -118,11 +119,9 @@ namespace Calculadora
 
         private static double Operar(string numeroUno, string numeroDos, string Operador)
         {
-            double resultado = 0, auxNumUno, auxNumDos;
-            double.TryParse(numeroUno, out auxNumUno);
-            double.TryParse(numeroDos, out auxNumDos);
-            Numero numUno = new Numero(auxNumUno);
-            Numero numDos = new Numero(auxNumDos);
+            double resultado = 0;
+            Numero numUno = new Numero(numeroUno);
+            Numero numDos = new Numero(numeroDos);
             resultado = Entidades.Calculadora.Operar(numUno, numDos, Operador);
             return resultado;
         }
