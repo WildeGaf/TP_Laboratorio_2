@@ -24,3 +24,16 @@ C:\Users\Marta\Desktop\TrabajoPractico-Calculadora\Calculadora\obj\Debug\FormCal
 C:\Users\Marta\Desktop\TrabajoPractico-Calculadora\Calculadora\obj\Debug\FormCalculadora.csproj.CopyComplete
 C:\Users\Marta\Desktop\TrabajoPractico-Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\Marta\Desktop\TrabajoPractico-Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Marta\Documents\C# Proyectos\TP_Laboratorio_2\TrabajoPractico-Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Marta\Documents\C# Proyectos\TP_Laboratorio_2\TrabajoPractico-Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Marta\Documents\C# Proyectos\TP_Laboratorio_2\TrabajoPractico-Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Marta\Documents\C# Proyectos\TP_Laboratorio_2\TrabajoPractico-Calculadora\Calculadora\bin\Debug\Entidades.dll
+C:\Users\Marta\Documents\C# Proyectos\TP_Laboratorio_2\TrabajoPractico-Calculadora\Calculadora\bin\Debug\Entidades.pdb
+C:\Users\Marta\Documents\C# Proyectos\TP_Laboratorio_2\TrabajoPractico-Calculadora\Calculadora\obj\Debug\FormCalculadora.csprojAssemblyReference.cache
+C:\Users\Marta\Documents\C# Proyectos\TP_Laboratorio_2\TrabajoPractico-Calculadora\Calculadora\obj\Debug\Calculadora.Form.resources
+C:\Users\Marta\Documents\C# Proyectos\TP_Laboratorio_2\TrabajoPractico-Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Marta\Documents\C# Proyectos\TP_Laboratorio_2\TrabajoPractico-Calculadora\Calculadora\obj\Debug\FormCalculadora.csproj.GenerateResource.cache
+C:\Users\Marta\Documents\C# Proyectos\TP_Laboratorio_2\TrabajoPractico-Calculadora\Calculadora\obj\Debug\FormCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Marta\Documents\C# Proyectos\TP_Laboratorio_2\TrabajoPractico-Calculadora\Calculadora\obj\Debug\FormCalculadora.csproj.CopyComplete
+C:\Users\Marta\Documents\C# Proyectos\TP_Laboratorio_2\TrabajoPractico-Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Marta\Documents\C# Proyectos\TP_Laboratorio_2\TrabajoPractico-Calculadora\Calculadora\obj\Debug\Calculadora.pdb

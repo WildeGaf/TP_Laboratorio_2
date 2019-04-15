@@ -142,7 +142,7 @@ namespace Calculadora
             this.cmbOperador.Location = new System.Drawing.Point(183, 72);
             this.cmbOperador.Name = "cmbOperador";
             this.cmbOperador.Size = new System.Drawing.Size(121, 21);
-            this.cmbOperador.TabIndex = 10;
+            this.cmbOperador.TabIndex = 1;
             this.cmbOperador.SelectedIndexChanged += new System.EventHandler(this.cmbOperador_SelectedIndexChanged);
             // 
             // lblResp

@@ -79,11 +79,19 @@ namespace Calculadora
             {
                 aux = cmbOperador.Text;
                 resultado = Operar(txtNumero1.Text, txtNumero2.Text, aux);
-                aux = Convert.ToString(resultado);
-                lblResp.Text = "Respuesta:";
-                lblResultado.Text = aux;
-                this.banderaBin = 1;
-                this.banderaDec = 0;
+                if (resultado == double.MinValue)
+                {
+                    MessageBox.Show("No se puede dividir por 0");
+                }
+                else
+                {
+                    
+                    aux = Convert.ToString(resultado);
+                    lblResp.Text = "Respuesta:";
+                    lblResultado.Text = aux;
+                    this.banderaBin = 1;
+                    this.banderaDec = 0;
+                }
             }
         }
 
