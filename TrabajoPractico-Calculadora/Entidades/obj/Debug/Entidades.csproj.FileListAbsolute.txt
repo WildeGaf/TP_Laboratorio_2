@@ -16,3 +16,9 @@ C:\Users\Marta\Desktop\TrabajoPractico-Calculadora\Entidades\obj\Debug\Entidades
 C:\Users\Marta\Desktop\TrabajoPractico-Calculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Marta\Desktop\TrabajoPractico-Calculadora\Entidades\obj\Debug\Entidades.dll
 C:\Users\Marta\Desktop\TrabajoPractico-Calculadora\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\TP_Laboratorio_2-master\TrabajoPractico-Calculadora\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\TP_Laboratorio_2-master\TrabajoPractico-Calculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\TP_Laboratorio_2-master\TrabajoPractico-Calculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\TP_Laboratorio_2-master\TrabajoPractico-Calculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\TP_Laboratorio_2-master\TrabajoPractico-Calculadora\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\TP_Laboratorio_2-master\TrabajoPractico-Calculadora\Entidades\obj\Debug\Entidades.pdb
