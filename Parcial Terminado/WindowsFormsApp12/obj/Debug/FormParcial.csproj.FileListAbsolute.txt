@@ -11,3 +11,16 @@ C:\Users\Gonza\source\repos\ClassLibrary1\WindowsFormsApp12\bin\Debug\WindowsFor
 C:\Users\Gonza\source\repos\ClassLibrary1\WindowsFormsApp12\bin\Debug\ClassLibrary1.dll
 C:\Users\Gonza\source\repos\ClassLibrary1\WindowsFormsApp12\bin\Debug\ClassLibrary1.pdb
 C:\Users\Gonza\source\repos\ClassLibrary1\WindowsFormsApp12\obj\Debug\FormParcial.csproj.CopyComplete
+C:\Users\alumno\Desktop\TP_Laboratorio_2\Parcial Terminado\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\alumno\Desktop\TP_Laboratorio_2\Parcial Terminado\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\alumno\Desktop\TP_Laboratorio_2\Parcial Terminado\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\alumno\Desktop\TP_Laboratorio_2\Parcial Terminado\WindowsFormsApp12\bin\Debug\ClassLibrary1.dll
+C:\Users\alumno\Desktop\TP_Laboratorio_2\Parcial Terminado\WindowsFormsApp12\bin\Debug\ClassLibrary1.pdb
+C:\Users\alumno\Desktop\TP_Laboratorio_2\Parcial Terminado\WindowsFormsApp12\obj\Debug\FormParcial.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\TP_Laboratorio_2\Parcial Terminado\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.formSistemaSolar.resources
+C:\Users\alumno\Desktop\TP_Laboratorio_2\Parcial Terminado\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\alumno\Desktop\TP_Laboratorio_2\Parcial Terminado\WindowsFormsApp12\obj\Debug\FormParcial.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\TP_Laboratorio_2\Parcial Terminado\WindowsFormsApp12\obj\Debug\FormParcial.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\TP_Laboratorio_2\Parcial Terminado\WindowsFormsApp12\obj\Debug\FormParcial.csproj.CopyComplete
+C:\Users\alumno\Desktop\TP_Laboratorio_2\Parcial Terminado\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\alumno\Desktop\TP_Laboratorio_2\Parcial Terminado\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb

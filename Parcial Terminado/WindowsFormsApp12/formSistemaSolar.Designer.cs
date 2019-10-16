@@ -255,7 +255,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(763, 451);
+            this.ClientSize = new System.Drawing.Size(710, 428);
             this.Controls.Add(this.Label9);
             this.Controls.Add(this.Label8);
             this.Controls.Add(this.Label7);
@@ -280,6 +280,7 @@
             this.Controls.Add(this.btnAgregarSatelite);
             this.Controls.Add(this.btnAgregarPlaneta);
             this.Name = "formSistemaSolar";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numOrbitaSatelite)).EndInit();
